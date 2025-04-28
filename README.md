@@ -1,10 +1,8 @@
 # 👋 Welcome to my GitHub profile
 
 ## About Me
-I'm Stefan Milutinović, a passionate developer focused on Fullstack and Backend development.
-My main stack includes Angular, JavaScript, and Bootstrap for the frontend, and Java/Spring Boot and Golang for the backend.
-I have experience with SQL and NoSQL databases.
-
+I'm Stefan Milutinović, a passionate developer focused on Fullstack and Backend development. My main stack includes Angular/JavaScript/Bootstrap for the frontend and Java/Spring Boot and Golang for the backend. 
+I also have experience with SQL and NoSQL databases.
 
 
 ## Frontend
